@@ -4,6 +4,9 @@ This is not a plug'n'play solution and won't be actively maintained at this poin
 It's also not installable at this point, but we may add it in the future.
 
 # Description
+This implementation assumes that the official Paypal-Plugin for Shopware 6 is running and configured correctly
+in the Shopware 6 backend.
+
 ## PaypalExpressButton component
 This renders the Paypal-Express Button, you can use it everywhere you want and also use multiple instances.  
 ### props
